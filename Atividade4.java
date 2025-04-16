@@ -2,7 +2,7 @@ package lista_lpa.exemplos;
 
 import java.util.Scanner;
 
-public class exercicio4 {
+public class Atividade_4{
 
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
